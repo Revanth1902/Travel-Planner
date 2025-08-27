@@ -325,3 +325,19 @@ textarea:focus {
     flex-direction: column;
   }
 }
+
+.maps-btn {
+  display: inline-block;
+  margin-top: 8px;
+  background-color: #00acee;
+  color: white;
+  padding: 6px 12px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-size: 0.9rem;
+  transition: background 0.3s ease;
+}
+
+.maps-btn:hover {
+  background-color: #008fc7;
+}
